@@ -1,4 +1,4 @@
-# 💶 Bankist
+# Bankist 💶 
 
 Bankist is a fictitious and minimalistic online banking application that allows the user to:
 
